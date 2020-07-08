@@ -7,7 +7,7 @@
 ![2](https://user-images.githubusercontent.com/26629624/86936446-4e0f9a80-c13e-11ea-8c2a-c721956aa5a7.gif)
 
 #
-This project is done in Unity 2017.4
+This project is done in Unity 2017.4 with the UnityProlog framework
 
 **This framework was provided by Paolo Giorgini and Francesco Alzetta as part of the course Agent-oriented software engineering at the University of Trento.**
 
